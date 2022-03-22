@@ -1,0 +1,2 @@
+# huskyconf
+Husky configuration
